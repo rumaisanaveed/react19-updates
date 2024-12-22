@@ -16,6 +16,5 @@ export const UseApi = () => {
     <pre>
       <code>{JSON.stringify(pokemon, null, 1)}</code>
     </pre>
-    // This repo contains my learnings of the React 19 features.
   );
 };
